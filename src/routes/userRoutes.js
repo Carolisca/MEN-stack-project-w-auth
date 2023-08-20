@@ -9,4 +9,4 @@ router.patch("/:id", controllers.updateUser);
 router.delete("/:id", controllers.deleteUser);
 
 
-export default router;
+export default router; 
