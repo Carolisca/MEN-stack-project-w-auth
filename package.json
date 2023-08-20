@@ -1,7 +1,7 @@
 {
-  "name": "men-stack-project-w-auth",
+  "name": "api-travel",
   "version": "1.0.0",
-  "description": "Para executar este projeto, você deverá ter instalado o Node.js e as dependências do npm. Será necessário ter instalado o banco de dados Mongodb e suas configurações. Além disso, iremos fazer requisições na API com a plataforma Postman.",
+  "description": "",
   "main": "server.js",
   "type": "module",
   "scripts": {
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/itsalle/MEN-stack-project-w-auth.git"
+    "url": ""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/itsalle/MEN-stack-project-w-auth/issues"
+   
   },
-  "homepage": "https://github.com/itsalle/MEN-stack-project-w-auth#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
